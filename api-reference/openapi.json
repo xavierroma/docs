@@ -7,7 +7,7 @@
     "contact": {
       "name": "API Support",
       "email": "support@distranmail.com",
-      "url": "https://docs.distranmail.com"
+      "url": "https://distranmail.com"
     },
     "license": {
       "name": "Apache 2.0",
@@ -20,8 +20,8 @@
       "description": "Production server"
     },
     {
-      "url": "https://staging-api.distranmail.com",
-      "description": "Staging server"
+      "url": "https://sandbox.distranmail.com",
+      "description": "Sandbox server"
     }
   ],
   "tags": [
